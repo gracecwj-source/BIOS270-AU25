@@ -183,10 +183,12 @@ Answer the following questions:
 **HW Part B**
 
 - Introduction Sequence — 4/4 complete:  
-scp /Users/gracechen/Desktop/Remote.png gracecwj@login.farmshare.stanford.edu:/home/users/gracecwj/repos/BIOS270-AU25/
+![Main Task Screenshot](images/Main.png)
+
+
 
 - Push & Pull — Git Remotes! — 8/8 complete:  
-scp /Users/gracechen/Desktop/Main.png gracecwj@login.farmshare.stanford.edu:/home/users/gracecwj/repos/BIOS270-AU25/
+![Remote Task Screenshot](images/Remote.png)
 
 **HW Part C**
 
