@@ -1,1 +1,7 @@
-
+Answer the following questions in your `write-up`:
+1. How many slurm job will be submitted?
+    1 job is submitted with the Job ID 1044827
+2. What is the purpose of the `if` statement?
+    'If' statement divides the tasks, so that each line only prints one task
+3. What is the expected output in each `*.out` file?
+    Each '*.out'file will have 2 outputs. For task 0, outputs are 12 and 8. For task 1, outputs are 7 and 27. For task 3, outputs are 91 and 30.
