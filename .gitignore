@@ -1,0 +1,16 @@
+# caches / logs / personal stuff
+__pycache__/
+.Rhistory
+.Rproj.user/
+*.out
+*.err
+logs/
+micromamba/
+.mamba/
+.conda/
+# raw data (don’t track large files)
+data/
+*.fastq*
+*.bam
+*.sam
+*.vcf*
