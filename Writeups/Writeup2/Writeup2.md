@@ -30,4 +30,19 @@ List of packages in environment: "/home/users/gracecwj/micromamba/envs/bioinfo_e
 ─────────────────────────────────────────────────────────
   bioconductor-deseq2  1.42.0   r43hf17093f_2  bioconda
 
+  ```
+***Container***
+Step 3 Code:
+
+Step 5 & 6 Code:
+```python
+export PORT=27342      # pick any free port 20000–30000
+export SIF="$SCRATCH/bioinformatics_latest.sif"
+
+apptainer run -B "$SCRATCH",/farmshare/home/classes/bios/270 "$SIF" \
+  code-server --bind-addr 127.0.0.1:$PORT --auth none
+```
+
+
+
   
