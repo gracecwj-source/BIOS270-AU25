@@ -32,7 +32,7 @@ for (( sample_index=0; sample_index<NUM_SAMPLES; sample_index++ )); do
     TRIM_GALORE=$(sbatch --parsable --job-name=trim_$SAMPLE --cpus-per-task=8 --mem=16G --time=02:00:00 \
         --output=logs/trim_${SAMPLE}_%j.out --error=logs/trim_${SAMPLE}_%j.err \
         --wrap "$RUN trim_galore --quality 20 --length 20 --paired --output_dir $PROCESSED_DATA/$SAMPLE/trim_galore_outs $RAW_DATA/$SAMPLE/${SAMPLE}_1.fastq $RAW_DATA/$SAMPLE/${SAMPLE}_2.fastq")
-
+#Galore and FastQC can run together, Salmon depends on Trim Galore, so need to wait till Galore is finish before it can run
     # Submit Salmon job (depends on Trim Galore)
     SALMON_QUANT=$(sbatch --parsable --dependency=afterok:$TRIM_GALORE --job-name=salmon_$SAMPLE --cpus-per-task=8 --mem=16G --time=01:00:00 \
         --output=logs/salmon_${SAMPLE}_%j.out --error=logs/salmon_${SAMPLE}_%j.err \
@@ -42,3 +42,4 @@ for (( sample_index=0; sample_index<NUM_SAMPLES; sample_index++ )); do
             -p 8 --validateMappings -o $PROCESSED_DATA/$SAMPLE/salmon_outs")
 done
 
+#However, for this code, if one line fail, everything re-run from the beginning
