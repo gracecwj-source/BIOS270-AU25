@@ -1,0 +1,149 @@
+protein_id	protein_name	copy_number
+PMEJFK_00010	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	3
+PMEJFK_24310	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	3
+PMEJFK_24675	Proteasome lid subunit RPN8/RPN11, contains Jab1/MPN domain metalloenzyme (JAMM) motif	3
+PMEJFK_00015	Phage-related protein, tail assembly protein I	3
+PMEJFK_24305	Phage-related protein, tail assembly protein I	3
+PMEJFK_24680	Phage-related protein, tail assembly protein I	3
+PMEJFK_00020	Host specificity protein J	3
+PMEJFK_24300	Host specificity protein J	3
+PMEJFK_24685	Host specificity protein J	3
+PMEJFK_00025	Opacity protein LomR and related surface antigens	3
+PMEJFK_24295	Opacity protein LomR and related surface antigens	3
+PMEJFK_24690	Opacity protein LomR and related surface antigens	3
+PMEJFK_00035	Prophage protein	3
+PMEJFK_24285	Prophage protein	3
+PMEJFK_24700	Prophage protein	3
+PMEJFK_02865	IS6 family IS15DIV transposase	5
+PMEJFK_02885	IS6 family IS15DIV transposase	5
+PMEJFK_23805	IS6 family IS15DIV transposase	5
+PMEJFK_23860	IS6 family IS15DIV transposase	5
+PMEJFK_23890	IS6 family IS15DIV transposase	5
+PMEJFK_20925	Hok/gef family protein	2
+PMEJFK_20935	type I toxin-antitoxin system toxin HokE	2
+PMEJFK_03240	Outer membrane porin OmpC/OmpF/PhoE	2
+PMEJFK_24885	Outer membrane porin OmpC/OmpF/PhoE	2
+PMEJFK_03510	IS3 family IS2 transposase ORF A	6
+PMEJFK_08830	IS3 family IS2 transposase ORF A	6
+PMEJFK_16075	Transposase	6
+PMEJFK_17050	IS3 family IS2 transposase ORF A	6
+PMEJFK_19805	IS3 family IS2 transposase ORF A	6
+PMEJFK_24150	IS3 family IS2 transposase ORF A	6
+PMEJFK_03515	IS3 family IS2 transposase ORF B	4
+PMEJFK_08835	IS3 family IS2 transposase ORF B	4
+PMEJFK_17045	IS3 family IS2 transposase ORF B	4
+PMEJFK_19800	IS3 family IS2 transposase ORF B	4
+PMEJFK_24665	DNA polymerase III, epsilon subunit or related 3'-5' exonuclease	3
+PMEJFK_23590	3'-5' exonuclease	3
+PMEJFK_25460	3'-5' exonuclease	3
+PMEJFK_24695	Prophage side tail fiber protein	3
+PMEJFK_00030	Prophage side tail fiber protein	3
+PMEJFK_24290	Prophage side tail fiber protein	3
+PMEJFK_24775	NADP-dependent isocitrate dehydrogenase	2
+PMEJFK_24935	NADP-dependent isocitrate dehydrogenase	2
+PMEJFK_24800	Putative transposase InsN for insertion sequence element IS911A	3
+PMEJFK_17105	IS3 family transposase ORF A	3
+PMEJFK_16270	IS3 family transposase ORF A	3
+PMEJFK_24805	IS30 family IS30 transposase	2
+PMEJFK_08890	Transposase and inactivated derivatives, IS30 family	2
+PMEJFK_24910	Ybl63	2
+PMEJFK_24705	Ybl63	2
+PMEJFK_08735	Integrase/recombinase, includes phage integrase	2
+PMEJFK_16305	Integrase/recombinase, includes phage integrase	2
+PMEJFK_08740	Tetratricopeptide repeat protein	2
+PMEJFK_16300	ShiA-like protein	2
+PMEJFK_08745	IS1 family IS1A transposase ORF A	7
+PMEJFK_08765	IS1 family IS1A transposase ORF A	7
+PMEJFK_17075	IS1 family IS1A transposase ORF A	7
+PMEJFK_23830	IS1 family IS1B transposase ORF A	7
+PMEJFK_23945	IS1 family IS1A transposase ORF A	7
+PMEJFK_24100	IS1 family IS1A transposase ORF A	7
+PMEJFK_24105	IS1 family IS1A transposase ORF A	7
+PMEJFK_08750	IS1 family transposase	9
+PMEJFK_08760	IS1 family transposase	9
+PMEJFK_10010	IS1 family transposase	9
+PMEJFK_17080	IS1 family IS1SD transposase ORF B	9
+PMEJFK_17195	IS1 family transposase	9
+PMEJFK_23825	IS1 family transposase	9
+PMEJFK_23940	IS1 family transposase	9
+PMEJFK_24095	IS1 family IS1SD transposase ORF B	9
+PMEJFK_24110	IS1 family IS1SD transposase ORF B	9
+PMEJFK_08800	IS3 family IS1203 transposase ORF A	4
+PMEJFK_08895	IS3 family IS3411 transposase ORF A	4
+PMEJFK_23715	IS3 family IS629 transposase ORF A	4
+PMEJFK_24215	IS3 family IS1203 transposase ORF A	4
+PMEJFK_08885	Transposase	3
+PMEJFK_08950	IS3 family ISSd1 transposase ORF A	3
+PMEJFK_17135	IS3 family ISSfl10 transposase ORF A	3
+PMEJFK_08900	IS3 family IS629 transposase ORF B	5
+PMEJFK_08795	IS3 family transposase	5
+PMEJFK_23720	HTH-like domain-containing protein	5
+PMEJFK_24210	HTH-like domain-containing protein	5
+PMEJFK_24200	Integrase catalytic domain-containing protein	5
+PMEJFK_08955	IS3 family ISSd1 transposase	2
+PMEJFK_17130	IS3 family ISSd1 transposase ORF B	2
+PMEJFK_00795	PAAR repeat-containing protein	2
+PMEJFK_19165	Type VI secretion system PAAR protein	2
+PMEJFK_00965	glutamate decarboxylase	2
+PMEJFK_11995	glutamate decarboxylase	2
+PMEJFK_01165	IS200/IS605-like element IS200C family transposase	3
+PMEJFK_02410	IS200/IS605-like element IS200C family transposase	3
+PMEJFK_07185	IS200/IS605-like element IS200C family transposase	3
+PMEJFK_01225	starvation-sensing protein RspA	2
+PMEJFK_14865	D-mannonate dehydratase ManD	2
+PMEJFK_01265	DMSO/selenate family reductase complex B subunit	2
+PMEJFK_22525	DMSO/selenate family reductase complex B subunit	2
+PMEJFK_01505	class I fumarate hydratase	2
+PMEJFK_15915	class I fumarate hydratase	2
+PMEJFK_18490	Bacteriocin immunity protein	2
+PMEJFK_18500	Bacteriocin immunity protein	2
+PMEJFK_20835	Methyltransferase type 12 domain-containing protein	2
+PMEJFK_24710	Methyltransferase type 12 domain-containing protein	2
+PMEJFK_24060	AbrB/MazE/SpoVT family DNA-binding domain-containing protein	2
+PMEJFK_24075	VagC	2
+PMEJFK_24065	tRNA(fMet)-specific endonuclease VapC	2
+PMEJFK_24080	Ribonuclease/mRNA interferase VapC, contains PIN domain	2
+PMEJFK_24315	phage minor tail protein L	3
+PMEJFK_00005	phage minor tail protein L	3
+PMEJFK_24670	phage minor tail protein L	3
+PMEJFK_24420	hypothetical protein	2
+PMEJFK_25555	hypothetical protein	2
+PMEJFK_24425	Transmembrane protein	2
+PMEJFK_25560	Transmembrane protein	2
+PMEJFK_24430	SAR-endolysin	2
+PMEJFK_25565	SAR-endolysin	2
+PMEJFK_24520	Type I toxin-antitoxin system Hok family toxin	2
+PMEJFK_25600	type I toxin-antitoxin system toxin HokD	2
+PMEJFK_10015	InsB	2
+PMEJFK_23800	InsB	2
+PMEJFK_15995	Antitoxin of the YeeV-YeeU toxin-antitoxin system; CP4-44 prophage	2
+PMEJFK_17270	YagB/YeeU/YfjZ family protein	2
+PMEJFK_16005	CP4-44 prophage	2
+PMEJFK_17260	Uncharacterized protein YeeT	2
+PMEJFK_16010	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	2
+PMEJFK_17255	DNA repair protein RadC, contains a helix-hairpin-helix DNA-binding motif	2
+PMEJFK_16015	Antirestriction protein	2
+PMEJFK_17250	Antirestriction protein	2
+PMEJFK_16020	Aec71	2
+PMEJFK_17245	DUF945 domain-containing protein	2
+PMEJFK_11040	translation elongation factor EF-Tu 1	2
+PMEJFK_14990	elongation factor Tu	2
+PMEJFK_23600	Phage replisome organizer	2
+PMEJFK_24605	Putative phage replication protein	2
+PMEJFK_23605	Bacterial toxin YdaT domain-containing protein	2
+PMEJFK_24610	Bacterial toxin YdaT domain-containing protein	2
+PMEJFK_23620	Prophage protein	2
+PMEJFK_24630	DUF1391 domain-containing protein	2
+PMEJFK_23625	Uncharacterized protein YdfB	2
+PMEJFK_24635	Prophage protein	2
+PMEJFK_23630	Prophage protein	2
+PMEJFK_24640	Prophage protein	2
+PMEJFK_23640	Replication protein	2
+PMEJFK_23650	protein rep	2
+PMEJFK_07940	Type VI secretion system tip protein VgrG	2
+PMEJFK_07925	Type VI secretion system tip protein VgrG	2
+PMEJFK_04100	colanic acid biosynthesis phosphomannomutase CpsG	2
+PMEJFK_04200	colanic acid biosynthesis phosphomannomutase CpsG	2
+PMEJFK_17110	IS3 family transposase	3
+PMEJFK_24810	IS3 family transposase	3
+PMEJFK_17140	Putative transposase InsO for insertion sequence element IS911B	3
